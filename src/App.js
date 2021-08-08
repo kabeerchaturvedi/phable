@@ -1,4 +1,3 @@
-import CalculateValues from "./CalculateValues";
 import Calories from "./Calories";
 
 function App() {
